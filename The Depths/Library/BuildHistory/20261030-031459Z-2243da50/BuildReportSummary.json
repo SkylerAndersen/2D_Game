@@ -1,0 +1,33 @@
+{
+    "Version": 2,
+    "BuildContentOptions": [
+        "None"
+    ],
+    "BuildManifestHash": "00000000000000000000000000000000",
+    "BuildName": "The Depths",
+    "BuildOptions": [
+        "ForceOptimizeScriptCompilation",
+        "Il2CPP",
+        "CompressTextures",
+        "StripDebugSymbols",
+        "ShaderLivelinkSupport",
+        "ShowBuiltPlayer"
+    ],
+    "BuildProfilePath": "Assets/Settings/Build Profiles/Web - Desktop - Release.asset",
+    "BuildResult": 1,
+    "BuildResultName": "Succeeded",
+    "BuildSessionGUID": "2243da500399a41c29401d92ad1c01ba",
+    "BuildStartedAt": "2026-10-30T03:14:59.7989340Z",
+    "BuildType": 1,
+    "BuildTypeName": "Player",
+    "ContentSourceBuildSessionGUID": "00000000000000000000000000000000",
+    "OutputPath": "/Users/skylerandersen/my_projects/2D_Game/The Depths/Build",
+    "Platform": 20,
+    "PlatformName": "WebGL",
+    "Subtarget": 1,
+    "SubtargetName": "1",
+    "TotalErrors": 0,
+    "TotalSizeBytes": 62355639,
+    "TotalTimeMs": 144927,
+    "TotalWarnings": 4
+}
